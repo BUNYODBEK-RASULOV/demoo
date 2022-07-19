@@ -1,6 +1,7 @@
 package com.example.demo.controller;
 
 import com.example.demo.model.receive.UniversityReceiveDTO;
+import com.example.demo.service.BaseService;
 import com.example.demo.service.UniversityService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
